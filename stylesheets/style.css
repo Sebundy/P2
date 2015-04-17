@@ -27,8 +27,9 @@ header nav {
 }
 
 main {
-  background: white;
+  background: grey;
   overflow: auto;
+  font-style: italic;
 }
 
 main .left {
